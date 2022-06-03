@@ -7,7 +7,7 @@ What I've learned/created today:
 
 Solidity
 --------
-Solidiy is the programming language for smart contracts on various blockchain platforms. It is mostly influenced by C++, Python and JavaScript.
+Solidity is the programming language for smart contracts on various blockchain platforms. It is mostly influenced by C++, Python and JavaScript.
 
 Scope
 --------
