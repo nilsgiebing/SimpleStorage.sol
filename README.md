@@ -36,3 +36,31 @@ A struct contains a group of elements with different data types. Generally, it i
 Array
 --------
 An array is a data structure that holds a list of other types.
+
+--------------------------------------------
+
+Day 3 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+DAO
+--------
+A DAO (Decentralized Autonomous Organization) is a member-owned community without centralized leadership.
+
+Decentralized Governance
+--------
+There are two types that affect the protocols such as social or technical changes.
+Technical changes use tokens and smart contracts to upgrade code or move funds for example.
+Social changes do not require funds nor smart contracts to make changes. Partnerships are one example of a social change.
+
+calldata
+--------
+Variable/data only exists temporarily while a transaction executes. Use if you don't want to modify the variable/data.
+
+memory
+--------
+Variable/data only exists temporarily while a transaction executes. Use if you want to modify the variable/data.
+
+storage
+--------
+Variable/data also exists outside of a function executing. Permanent variable/data that can be modified.
