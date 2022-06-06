@@ -64,3 +64,25 @@ Variable/data only exists temporarily while a transaction executes. Use if you w
 storage
 --------
 Variable/data also exists outside of a function executing. Permanent variable/data that can be modified.
+
+--------------------------------------------
+
+Day 4 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+My First dApp (again)
+--------
+I've recreated my first dApp from the @LearnWeb3DAO course. I wanted to refresh my skills a little bit.
+
+Ropsten
+--------
+The Ropsten test-net allows blockchain developers to test their work in a live setting, but without the need for real ETH.
+
+ABI
+--------
+An ABI (Application Binary Interface) orchestrates how code binaries works together. The ABI deals with the implementation details of code i.e. what code turns into when it's compiled.
+
+Contract Address
+--------
+A contract address is the address of a smart contract where someone needs to send a transaction in order to execute this smart contract.
