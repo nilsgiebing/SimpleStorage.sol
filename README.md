@@ -86,3 +86,22 @@ An ABI (Application Binary Interface) orchestrates how code binaries works toget
 Contract Address
 --------
 A contract address is the address of a smart contract where someone needs to send a transaction in order to execute this smart contract.
+
+--------------------------------------------
+
+Day 5 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+Layer-1
+--------
+Layer-1 is the term that’s used to describe the underlying main blockchain architecture.
+
+Layer-2
+--------
+Layer-2, on the other hand, is an overlaying network that lies on top of the underlying blockchain.
+
+Custodial & Non-Custodial Wallets
+--------
+Custodial wallets are wallets, that are stores on a centralized server and where one doesn't have the private key of his account.
+With non-custodial wallets one has access to his own private key and no other person has access to it.
