@@ -105,3 +105,22 @@ Custodial & Non-Custodial Wallets
 --------
 Custodial wallets are wallets, that are stores on a centralized server and where one doesn't have the private key of his account.
 With non-custodial wallets one has access to his own private key and no other person has access to it.
+
+--------------------------------------------
+
+Day 6 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+view/pure statements #solidity
+--------
+View statements lets a function only read data from a blockchain. With it a function can not write data to a blockchain.
+With pure statements functions aren't able to read or write data from a blockchain. It can be used for something like mathematical calculations.
+
+Keccak256 (SHA3) #ethereum
+--------
+Ethereum has the hash function keccak256 built in, which is a version of SHA3. A hash function basically maps an input into a random 256-bit hexadecimal number. A slight change in the input will cause a large change in the hash.
+
+Typecasting #programming
+--------
+Sometimes one needs to convert between data types. With typecasting you can do exactly that eg. in mathematical operations.
