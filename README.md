@@ -124,3 +124,21 @@ Ethereum has the hash function keccak256 built in, which is a version of SHA3. A
 Typecasting #programming
 --------
 Sometimes one needs to convert between data types. With typecasting you can do exactly that eg. in mathematical operations.
+
+--------------------------------------------
+
+Day 7 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+IPFS
+--------
+IPFS (InterPlanetary File System) attempts to address the deficiencies of the client-server model and HTTP web through a novel p2p file sharing system.
+
+IPv4
+--------
+IPv4 is the fourth version of the internet protocol. It's the internet’s principal set of rules for communications. An IPv4 address contains 32 bit integers (decimal & binary).
+
+IPv6
+--------
+IPv6 is the sixth version of the internet protocol. It's a newer protocol version and runs today side by side with IPv4, but will replace IPv4 in the future. An IPv6 address contains 128 bit integers (+hexadecimal).
