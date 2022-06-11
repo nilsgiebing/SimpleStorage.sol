@@ -142,3 +142,21 @@ IPv4 is the fourth version of the internet protocol. It's the internet’s princ
 IPv6
 --------
 IPv6 is the sixth version of the internet protocol. It's a newer protocol version and runs today side by side with IPv4, but will replace IPv4 in the future. An IPv6 address contains 128 bit integers (+hexadecimal).
+
+--------------------------------------------
+
+Day 8 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+Mapping
+--------
+Mappings are used to store the data in the form of key-value pairs. Mappings are mostly used to associate the unique Ethereum address with the associated value type.
+
+msg.sender
+--------
+The msg.sender is the address that has called or initiated a function or created a transaction. This address could be of a contract or even a person like you and me.
+
+require
+--------
+'require' returns two boolean values that are either true or false, if the specified condition returns a true value it allows the code to flow and function accordingly. If the value returned is false, it throws an error and stops the code right there.
