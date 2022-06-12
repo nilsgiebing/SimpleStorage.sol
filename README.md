@@ -160,3 +160,21 @@ The msg.sender is the address that has called or initiated a function or created
 require
 --------
 'require' returns two boolean values that are either true or false, if the specified condition returns a true value it allows the code to flow and function accordingly. If the value returned is false, it throws an error and stops the code right there.
+
+--------------------------------------------
+
+Day 9 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+Inheritance
+--------
+Rather than making one extremely long contract, sometimes it makes sense to split your code logic across multiple contracts to organize the code. This is where inheritance is being used.
+
+Import
+--------
+With the import statement you normally will handle long codebases in your Solidity projects. When you have multiple files and you want to import one file into another, Solidity uses the import keyword.
+
+Storage vs Memory
+--------
+Storage refers to variables that are permanently stored on the blockchain. Memory variables are temporary and are cleared between external function calls to the contract. Think of it as a computer's hard drive versus RAM.
