@@ -178,3 +178,21 @@ With the import statement you normally will handle long codebases in your Solidi
 Storage vs Memory
 --------
 Storage refers to variables that are permanently stored on the blockchain. Memory variables are temporary and are cleared between external function calls to the contract. Think of it as a computer's hard drive versus RAM.
+
+--------------------------------------------
+
+Day 10 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+Byzantine Fault Tolerance 
+--------
+Byzantine Fault Tolerance (BFT) means the reliability of a fault-tolerant computer system, especially distributed systems, where components may fail and there is incomplete information about whether such a failure will happen.
+
+Interface
+--------
+Interfaces are often found at the top of a smart contract. They are identified using the “interface” keyword. You can use an interface in your contract to call functions in another contract.
+
+Internal and External
+--------
+internal is the same as private, except that it's also accessible to contracts that inherit from this contract. external is similar to public, except that these functions can ONLY be called outside the contract.
