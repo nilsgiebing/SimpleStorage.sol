@@ -196,3 +196,11 @@ Interfaces are often found at the top of a smart contract. They are identified u
 Internal and External
 --------
 internal is the same as private, except that it's also accessible to contracts that inherit from this contract. external is similar to public, except that these functions can ONLY be called outside the contract.
+
+--------------------------------------------
+
+Day 11 of the #100DaysOfCode challenge.
+
+What I've learned/created today:
+
+Today I've re-learned the stuff I've learned the past 10 days, especially Solidity and it's concepts in general.
